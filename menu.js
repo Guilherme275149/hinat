@@ -242,15 +242,6 @@ return `╔╦══• •✠• COMANDOS •✠ • •══╦╗
 ╽┷╼❥
 
 
-┏   「 💻Consulta Premium💻 」
-╟➤Cmd Escondido Bobo
-╟➤Cmd Escondido Bobo
-╟➤Cmd Escondido Bobo
-╟➤Cmd Escondido Bobo
-╟➤Cmd Escondido Bobo
-╽┷╼❥
-
-
 ┏   「 🧾𝚃𝚎𝚡𝚝𝚘🧾  」
 ╟➤nameninja* ❮ⁿᵃᵐᵉ❯
 ╟➤fakeidentity*
