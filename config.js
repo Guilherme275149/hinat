@@ -34,7 +34,7 @@ const apikeyimgbb = '1eb4ea79f7e4eef8241d5bdb054adc01'
 const cr = 'ＨＩＮＡＴＡ ＢＯＴ\n' 
 // texto do simbolo de verificado
 
-const prefix = '!' 
+const prefix = '/' 
 // prefixo
 
 const blockedmsg = '*😜 Seu número esta bloqueado, ou seja não ouvindo você 😜*'
